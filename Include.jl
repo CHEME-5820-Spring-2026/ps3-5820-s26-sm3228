@@ -16,7 +16,7 @@ using StatsPlots
 using Plots
 using Colors
 using Statistics
-using LinearAlgebra
+using LinearAlgebra 
 using Distances
 using PrettyTables
 using Random
